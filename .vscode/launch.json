@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "name": "C#: Post.Cmd.Api [Default Configuration]",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}\\SM-Post\\Post.Cmd\\Post.Cmd.Api\\Post.Cmd.Api.csproj"
+        }
+    ]
+}

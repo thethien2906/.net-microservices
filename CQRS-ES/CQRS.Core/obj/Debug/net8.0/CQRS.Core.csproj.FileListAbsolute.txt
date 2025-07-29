@@ -1,0 +1,12 @@
+C:\fuck 3\dotnet_microservices\Solution\CQRS-ES\CQRS.Core\bin\Debug\net8.0\CQRS.Core.deps.json
+c:\fuck 3\dotnet_microservices\Solution\CQRS-ES\CQRS.Core\bin\Debug\net8.0\CQRS.Core.dll
+c:\fuck 3\dotnet_microservices\Solution\CQRS-ES\CQRS.Core\bin\Debug\net8.0\CQRS.Core.pdb
+c:\fuck 3\dotnet_microservices\Solution\CQRS-ES\CQRS.Core\obj\Debug\net8.0\CQRS.Core.csproj.AssemblyReference.cache
+c:\fuck 3\dotnet_microservices\Solution\CQRS-ES\CQRS.Core\obj\Debug\net8.0\CQRS.Core.GeneratedMSBuildEditorConfig.editorconfig
+c:\fuck 3\dotnet_microservices\Solution\CQRS-ES\CQRS.Core\obj\Debug\net8.0\CQRS.Core.AssemblyInfoInputs.cache
+c:\fuck 3\dotnet_microservices\Solution\CQRS-ES\CQRS.Core\obj\Debug\net8.0\CQRS.Core.AssemblyInfo.cs
+c:\fuck 3\dotnet_microservices\Solution\CQRS-ES\CQRS.Core\obj\Debug\net8.0\CQRS.Core.csproj.CoreCompileInputs.cache
+c:\fuck 3\dotnet_microservices\Solution\CQRS-ES\CQRS.Core\obj\Debug\net8.0\CQRS.Core.dll
+c:\fuck 3\dotnet_microservices\Solution\CQRS-ES\CQRS.Core\obj\Debug\net8.0\refint\CQRS.Core.dll
+c:\fuck 3\dotnet_microservices\Solution\CQRS-ES\CQRS.Core\obj\Debug\net8.0\CQRS.Core.pdb
+C:\fuck 3\dotnet_microservices\Solution\CQRS-ES\CQRS.Core\obj\Debug\net8.0\ref\CQRS.Core.dll
